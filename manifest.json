@@ -2,14 +2,13 @@
 	"name": "Artemis",
 	"description": "SSL/TLS Security Level Display",
 	"version": "0.1",
-	
-	"manifest_version": "2",
-	
+	"manifest_version": 2,
+
 	"browser_action": {
 		"default_icon": "default.png",
 		"default_popup": "detailed.html"
 	},
-	
+
 	"permissions": [
 		"storage",
 		"tabs"
