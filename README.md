@@ -1,2 +1,2 @@
 # Artemis
-Client-side SSL/TLS Security Level Display
+SSL/TLS Security Level Display
